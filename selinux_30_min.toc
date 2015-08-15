@@ -1,0 +1,12 @@
+\beamer@endinputifotherversion {3.32pt}
+\select@language {spanish}
+\beamer@sectionintoc {1}{Presentaci\IeC {\'o}n}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Acerca de mi}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Seguridad Inform\IeC {\'a}tica y GNU/Linux}{4}{0}{1}
+\beamer@sectionintoc {2}{Security Enhanced Linux}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Nociones Basicas}{5}{0}{2}
+\beamer@subsectionintoc {2}{2}{Type Enforcement }{7}{0}{2}
+\beamer@subsectionintoc {2}{3}{MCS Enforcement }{14}{0}{2}
+\beamer@sectionintoc {3}{Demostraci\IeC {\'o}n Practica}{20}{0}{3}
+\beamer@subsectionintoc {3}{1}{Contexto de seguridad}{20}{0}{3}
+\beamer@sectionintoc {4}{Referencias}{21}{0}{4}
